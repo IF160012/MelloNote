@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2009
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mello Note", "Mello Note\Mello Note.csproj", "{667238D0-2974-4254-AD69-FE22A24AB403}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoteBackend", "NoteBackend\NoteBackend.csproj", "{4B9284CE-16AD-4BAD-A5B5-D38C1C955793}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,10 @@ Global
 		{667238D0-2974-4254-AD69-FE22A24AB403}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{667238D0-2974-4254-AD69-FE22A24AB403}.Release|Any CPU.Build.0 = Release|Any CPU
 		{667238D0-2974-4254-AD69-FE22A24AB403}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{4B9284CE-16AD-4BAD-A5B5-D38C1C955793}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B9284CE-16AD-4BAD-A5B5-D38C1C955793}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B9284CE-16AD-4BAD-A5B5-D38C1C955793}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B9284CE-16AD-4BAD-A5B5-D38C1C955793}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
